@@ -12,6 +12,7 @@ module.exports = {
       'w-gray-btn-hover': '#E2D9F4',
       'w-gray-label-hover': '#EAE2F6',
       'w-green': '#4caf50',
+      'w-green-hover': '#F1F9F1',
       'w-white': '#ffffff',
     },
     extend: {},
